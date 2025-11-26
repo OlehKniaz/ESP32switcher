@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader
+D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader.rule
+D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete.rule
+D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

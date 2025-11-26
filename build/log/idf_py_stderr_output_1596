@@ -1,0 +1,572 @@
+Command: E:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe E:\Espressif\frameworks\esp-idf-v5.5.1\tools/idf_monitor.py -p COM4 -b 420000 --toolchain-prefix xtensa-esp32-elf- --target esp32 --revision 0 D:\Main Screen\Diploma\ESP32clean\build\esp32_switch_rf.elf D:\Main Screen\Diploma\ESP32clean\build\bootloader\bootloader.elf --force-color -m 'E:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe' 'E:\Espressif\frameworks\esp-idf-v5.5.1\tools\idf.py' '-p' 'COM4'
+[0;33m--- Warning: GDB cannot open serial ports accessed as COMx[0m
+[0;33m--- Using \\.\COM4 instead...[0m
+[0;33m--- esp-idf-monitor 1.8.0 on \\.\COM4 420000[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40085a0c: [0;33mprvReceiveGeneric[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m885[0m
+[0m--- 0x40085d7a: [0;33mxRingbufferReceiveUpTo[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m1182[0m
+[0m--- 0x400d6cb4: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1635[0m
+[0m--- 0x400d8351: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m43[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40085a0c: [0;33mprvReceiveGeneric[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m885[0m
+[0m--- 0x40085d7a: [0;33mxRingbufferReceiveUpTo[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m1182[0m
+[0m--- 0x400d6cb4: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1635[0m
+[0m--- 0x400d8351: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m43[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4008269f: [0;33mesp_timer_impl_get_counter_reg[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m115[0m
+[0m--- 0x400826b7: [0;33mesp_timer_impl_get_time[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m128[0m
+[0m--- 0x400d8333: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m40[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40085a0c: [0;33mprvReceiveGeneric[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m885[0m
+[0m--- 0x40085d7a: [0;33mxRingbufferReceiveUpTo[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m1182[0m
+[0m--- 0x400d6cb4: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1635[0m
+[0m--- 0x400d8351: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m43[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4008268f: [0;33mesp_timer_impl_get_counter_reg[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m105[0m
+[0m--- 0x400826b7: [0;33mesp_timer_impl_get_time[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m128[0m
+[0m--- 0x400d8333: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m40[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40085a0c: [0;33mprvReceiveGeneric[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m885[0m
+[0m--- 0x40085d7a: [0;33mxRingbufferReceiveUpTo[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m1182[0m
+[0m--- 0x400d6cb4: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1635[0m
+[0m--- 0x400d8351: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m43[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4008268f: [0;33mesp_timer_impl_get_counter_reg[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m105[0m
+[0m--- 0x400826b7: [0;33mesp_timer_impl_get_time[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m128[0m
+[0m--- 0x400d8333: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m40[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40085a0c: [0;33mprvReceiveGeneric[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m885[0m
+[0m--- 0x40085d7a: [0;33mxRingbufferReceiveUpTo[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m1182[0m
+[0m--- 0x400d6cb4: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1635[0m
+[0m--- 0x400d8351: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m43[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4008268f: [0;33mesp_timer_impl_get_counter_reg[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m105[0m
+[0m--- 0x400826b7: [0;33mesp_timer_impl_get_time[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m128[0m
+[0m--- 0x400d8333: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m40[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40085a0c: [0;33mprvReceiveGeneric[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m885[0m
+[0m--- 0x40085d7a: [0;33mxRingbufferReceiveUpTo[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m1182[0m
+[0m--- 0x400d6cb4: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1635[0m
+[0m--- 0x400d8351: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m43[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x40082699: [0;33mesp_timer_impl_get_counter_reg[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m106[0m
+[0m--- 0x400826b7: [0;33mesp_timer_impl_get_time[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m128[0m
+[0m--- 0x400d8333: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m40[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40085a0c: [0;33mprvReceiveGeneric[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m885[0m
+[0m--- 0x40085d7a: [0;33mxRingbufferReceiveUpTo[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m1182[0m
+[0m--- 0x400d6cb4: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1635[0m
+[0m--- 0x400d8351: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m43[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x40082699: [0;33mesp_timer_impl_get_counter_reg[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m106[0m
+[0m--- 0x400826b7: [0;33mesp_timer_impl_get_time[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m128[0m
+[0m--- 0x400d8333: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m40[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40085a0c: [0;33mprvReceiveGeneric[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m885[0m
+[0m--- 0x40085d7a: [0;33mxRingbufferReceiveUpTo[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m1182[0m
+[0m--- 0x400d6cb4: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1635[0m
+[0m--- 0x400d8351: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m43[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x40082699: [0;33mesp_timer_impl_get_counter_reg[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m106[0m
+[0m--- 0x400826b7: [0;33mesp_timer_impl_get_time[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m128[0m
+[0m--- 0x400d8333: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m40[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40085a0c: [0;33mprvReceiveGeneric[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m885[0m
+[0m--- 0x40085d7a: [0;33mxRingbufferReceiveUpTo[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m1182[0m
+[0m--- 0x400d6cb4: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1635[0m
+[0m--- 0x400d8351: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m43[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x40082699: [0;33mesp_timer_impl_get_counter_reg[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m106[0m
+[0m--- 0x400826b7: [0;33mesp_timer_impl_get_time[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m128[0m
+[0m--- 0x400d8333: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m40[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40085a0c: [0;33mprvReceiveGeneric[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m885[0m
+[0m--- 0x40085d7a: [0;33mxRingbufferReceiveUpTo[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m1182[0m
+[0m--- 0x400d6cb4: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1635[0m
+[0m--- 0x400d8351: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m43[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x40082699: [0;33mesp_timer_impl_get_counter_reg[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m106[0m
+[0m--- 0x400826b7: [0;33mesp_timer_impl_get_time[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m128[0m
+[0m--- 0x400d8333: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m40[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x40086b09: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1718[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4008269f: [0;33mesp_timer_impl_get_counter_reg[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m115[0m
+[0m--- 0x400826b7: [0;33mesp_timer_impl_get_time[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m128[0m
+[0m--- 0x400d8333: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m40[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x40086b09: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1718[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4008269f: [0;33mesp_timer_impl_get_counter_reg[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m115[0m
+[0m--- 0x400826b7: [0;33mesp_timer_impl_get_time[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_timer/src/esp_timer_impl_lac.c[0m[0m:[1;31m128[0m
+[0m--- 0x400d8333: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m40[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40085a0c: [0;33mprvReceiveGeneric[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m885[0m
+[0m--- 0x40085d7a: [0;33mxRingbufferReceiveUpTo[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m1182[0m
+[0m--- 0x400d6cb4: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1635[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086817: [0;33mxQueueGenericSend[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1056[0m
+[0m--- 0x400d6d31: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1660[0m
+[0m--- 0x400d8351: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m43[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086817: [0;33mxQueueGenericSend[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1056[0m
+[0m--- 0x400d6d31: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1660[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x40087042: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mvPortExitCritical[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m514[0m
+[0m--- 0x40086b4c: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1777[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x4000bfed: [0;33m_xtos_set_intlevel[0m[0m in [0;32mROM[0m
+[0m--- 0x4008862e: [0;33mvPortClearInterruptMaskFromISR[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h[0m[0m:[1;31m560[0m
+[0m--- (inlined by) [0;33mxTaskGetSchedulerState[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/tasks.c[0m[0m:[1;31m5031[0m
+[0m--- 0x40086ae1: [0;33mxQueueSemaphoreTake[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/queue.c[0m[0m:[1;31m1718[0m
+[0m--- 0x400d6c91: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1631[0m
+[0m--- 0x400d8379: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m51[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x40085d56: [0;33mxRingbufferReceiveUpTo[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m1174[0m
+[0m--- 0x400d6cb4: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1635[0m
+[0m--- 0x400d8351: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m43[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0;33m--- To exit from IDF monitor please use "Ctrl+]". Alternatively, you can use Ctrl+T Ctrl+X to exit.[0m
+[0m--- 0x400da19e: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m436[0m
+[0m--- 0x400da560: [0;33mtask_wdt_isr[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m509[0m
+[0m--- 0x40082a35: [0;33m_xt_lowint1[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x40085d56: [0;33mxRingbufferReceiveUpTo[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_ringbuf/ringbuf.c[0m[0m:[1;31m1174[0m
+[0m--- 0x400d6cb4: [0;33muart_read_bytes[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/esp_driver_uart/src/uart.c[0m[0m:[1;31m1635[0m
+[0m--- 0x400d8351: [0;33muart_task(void*)[0m[0m at [0;32mD:/Main Screen/Diploma/ESP32clean/main/rx_sniffer.cpp[0m[0m:[1;31m43[0m
+[0m--- 0x40086ce5: [0;33mvPortTaskWrapper[0m[0m at [0;32mE:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m
+Traceback (most recent call last):
+  File "E:\Espressif\frameworks\esp-idf-v5.5.1\tools/idf_monitor.py", line 11, in <module>
+    sys.exit(subprocess.run([sys.executable, '-m', 'esp_idf_monitor'] + sys.argv[1:]).returncode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "subprocess.py", line 550, in run
+  File "subprocess.py", line 1199, in communicate
+  File "subprocess.py", line 1262, in wait
+  File "subprocess.py", line 1543, in _wait
+KeyboardInterrupt

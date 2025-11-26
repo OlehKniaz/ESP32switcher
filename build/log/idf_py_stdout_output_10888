@@ -1,0 +1,136 @@
+Command: E:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe E:\Espressif\frameworks\esp-idf-v5.5.1\tools/idf_monitor.py -p COM4 -b 115200 --toolchain-prefix xtensa-esp32-elf- --target esp32 --revision 0 D:\Main Screen\Diploma\ESP32clean\build\esp32_switch_rf.elf D:\Main Screen\Diploma\ESP32clean\build\bootloader\bootloader.elf --force-color -m 'E:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe' 'E:\Espressif\frameworks\esp-idf-v5.5.1\tools\idf.py' '-p' 'COM4'
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:6380
+ho 0 tail 12 room 4
+load:0x40078000,len:15916
+load:0x40080400,len:3860
+entry 0x40080638
+[0;32mI (29) boot: ESP-IDF v5.5.1 2nd stage bootloader[0m
+[0;32mI (29) boot: compile time Nov 25 2025 20:50:12[0m
+[0;32mI (29) boot: Multicore bootloader[0m
+[0;32mI (31) boot: chip revision: v3.1[0m
+[0;32mI (33) boot.esp32: SPI Speed      : 40MHz[0m
+[0;32mI (37) boot.esp32: SPI Mode       : DIO[0m
+[0;32mI (41) boot.esp32: SPI Flash Size : 2MB[0m
+[0;32mI (44) boot: Enabling RNG early entropy source...[0m
+[0;32mI (49) boot: Partition Table:[0m
+[0;32mI (51) boot: ## Label            Usage          Type ST Offset   Length[0m
+[0;32mI (58) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+[0;32mI (64) boot:  1 phy_init         RF data          01 01 0000f000 00001000[0m
+[0;32mI (71) boot:  2 factory          factory app      00 00 00010000 00100000[0m
+[0;32mI (77) boot: End of partition table[0m
+[0;32mI (81) esp_image: segment 0: paddr=00010020 vaddr=3f400020 size=0b118h ( 45336) map[0m
+[0;32mI (103) esp_image: segment 1: paddr=0001b140 vaddr=3ffb0000 size=023f8h (  9208) load[0m
+[0;32mI (107) esp_image: segment 2: paddr=0001d540 vaddr=40080000 size=02ad8h ( 10968) load[0m
+[0;32mI (112) esp_image: segment 3: paddr=00020020 vaddr=400d0020 size=16b60h ( 93024) map[0m
+[0;32mI (147) esp_image: segment 4: paddr=00036b88 vaddr=40082ad8 size=0b544h ( 46404) load[0m
+[0;32mI (165) esp_image: segment 5: paddr=000420d4 vaddr=50000000 size=00020h (    32) load[0m
+[0;32mI (172) boot: Loaded app from partition at offset 0x10000[0m
+[0;32mI (172) boot: Disabling RNG early entropy source...[0m
+[0;32mI (183) cpu_start: Multicore app[0m
+[0;32mI (192) cpu_start: Pro cpu start user code[0m
+[0;32mI (192) cpu_start: cpu freq: 160000000 Hz[0m
+[0;32mI (192) app_init: Application information:[0m
+[0;32mI (192) app_init: Project name:     esp32_switch_rf[0m
+[0;32mI (196) app_init: App version:      1[0m
+[0;32mI (200) app_init: Compile time:     Nov 25 2025 20:50:00[0m
+[0;32mI (205) app_init: ELF file SHA256:  c619e25cb...[0m
+[0;32mI (209) app_init: ESP-IDF:          v5.5.1[0m
+[0;32mI (213) efuse_init: Min chip rev:     v0.0[0m
+[0;32mI (217) efuse_init: Max chip rev:     v3.99 [0m
+[0;32mI (221) efuse_init: Chip rev:         v3.1[0m
+[0;32mI (225) heap_init: Initializing. RAM available for dynamic allocation:[0m
+[0;32mI (231) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM[0m
+[0;32mI (236) heap_init: At 3FFB2CD0 len 0002D330 (180 KiB): DRAM[0m
+[0;32mI (241) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM[0m
+[0;32mI (247) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM[0m
+[0;32mI (252) heap_init: At 4008E01C len 00011FE4 (71 KiB): IRAM[0m
+[0;33mW (259) spi_flash: Detected boya flash chip but using generic driver. For optimal functionality, enable `SPI_FLASH_SUPPORT_BOYA_CHIP` in menuconfig[0m
+[0;32mI (270) spi_flash: detected chip: generic[0m
+[0;32mI (274) spi_flash: flash io: dio[0m
+[0;33mW (277) spi_flash: Detected size(4096k) larger than the size in the binary image header(2048k). Using the size in the binary image header.[0m
+[0;32mI (290) main_task: Sta���#�����A+[0m
+*�K�����N�o�
+�U�o/�N�j�+�/J��,�.�/N���.�䋪�D���
+OK
+,'*ˋj�7*J�F�~��,���G
+�e(k�F�dcg�F���J
+�N�o�
+�U�:%KN�j늋#/�bJ��t�/�n�
+�#�
+��ˊ�#�
+D���#�
+kK,���"�:c#����l#.�,�G�c��e�#k��G.+�K
+����.�O�/�k�n�e/n�kek+V�>�.�N�>�.�K/k��r�/��ˢv�/1,��r�/*K
+,'.�>ꂢ7Cj�F�<�	�#K
+���!����/��nʸ�nϏ��8Ku��
+�.����/�nU��/1��ˢ,�/9,��,�/T
+%�(��J�?*J�F�>����O�(jKG,+�d(cF	F���+�/�N�n�%�oϏ��kekk��!�
+�FJ���
+�j8
+#�
+1��ˊ�F�
+1DƢ+/*K
+%���"��J�F�>�g�O
+(kCG,+�d(j+�����.�N�/�
+�U�o/�N�j늃F-�bJ���/�nO���
+1��ˊ�F�
+1DƠ�-OK
+,'.ˋj�7Cj�F�>�����,j�FQ�,�,+�,K
+���g��K*����/�n�%�o��Nn�C�j�,�/�bJ��,�/�nU�,�/��ˢ,�/���.j-���SB�b#k�w�+��,��#�aK�g+��K*�����/�N�n�%�o����8KUO����FK���
+˨�o�#�
+1��ˊ�F
+1,��/T
+%�(��J�7*J�F�v	(����c�F
+�e(jK�E�@�����.�O�/�k�n�e//�kN�5�#�
+�FJ���
+�j8
+#K
+1��ˊ�F-1.��/T
+%�(��J�>*J�Fw�+�,G	Jk�a�J�!����/�N�n��S(nn��j��/�bJ���/k
+U��/��ˢ�/l��`.jC-����)�c#�K�+��.,�
+gFf�#C
+NNJkd(j+������N�o�
+�U�//�kN��F�
+�fJ���
+�j8
+���勪��.d�#K
+OK
+,�?���5Cj�F�s�G�+K�K��@O�-!�NaF�aF����
+�N�eK�>(nn�K�+k�*�.�FC���
+�(�o��
+1��ˊ�F�
+1.���/T%����B�c#���+��.�cg��aF*��+�/�n�%�nϏ��kekk���
+�FJ���
+�(�o��
+��ˊ�#�
+D���F�
+OK
+,�>���7Cj�F�>�����Fd+���,�e#k��d	!�L����
+�N�eK
+�U�:%KkN�j늇F�
+�fJ���
+�n8
+���勪��D��#�
+KK
+,���"�:cc�	s�.�gfoc�E�L����
+�N�o�
+�U�//nkN�5����FK����J/_��.�䋪�.d���.kK���"�>c#������ˆK���U��.Fa�+�aF*��
+�N�o�
+�U�o/�kN��F�
+�fJ���-�n�
+�#K
+1��ˊ�F
+1DƢ�/*K
+%�������~	@����.+.K
+���!����.�O�/Jk�n�e/n�kN�5�#�
+�bJ���/�nk
+�#/1��ˢ�/,���.kK���"�:cc�s�.��
+g�f+�#K*lF,+�,K
+�GF.+��K
+�

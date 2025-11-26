@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "ESP-IDF",
+            "compilerPath": "E:/Espressif/tools/xtensa-esp-elf/esp-14.2.0_20241119/xtensa-esp-elf/bin/xtensa-esp32-elf-gcc.exe",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "E:/Espressif/frameworks/esp-idf-v5.5.1/components/**",
+                "E:/Espressif/frameworks/esp-idf-v5.5.1/components/driver/include",
+                "E:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/include",
+                "E:/Espressif/frameworks/esp-idf-v5.5.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include",
+                "${workspaceFolder}/build/config"
+            ],
+            "defines": [
+                "ESP_PLATFORM",
+                "ESP32"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
