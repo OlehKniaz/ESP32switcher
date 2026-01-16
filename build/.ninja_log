@@ -1300,3 +1300,1368 @@
 374	472	7858078346157976	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
 472	6622	7858078346213176	CMakeFiles/flash	371d1632cb31e37d
 472	6622	7858078346213176	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+397	841	7859454604692852	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+397	841	7859454604692852	bootloader/bootloader.elf	e64fddcb27476f12
+397	841	7859454604692852	bootloader/bootloader.bin	e64fddcb27476f12
+397	841	7859454604692852	bootloader/bootloader.map	e64fddcb27476f12
+397	841	7859454604692852	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+397	841	7859454604692852	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+397	841	7859454604692852	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+397	841	7859454604692852	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+841	907	7859454609138190	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+841	907	7859454609138190	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+907	1005	7859454610706446	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+907	1005	7859454610706446	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+907	1005	7859454610706446	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+907	1005	7859454610706446	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+116	310	7859456788321378	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+116	310	7859456788321378	bootloader/bootloader.elf	e64fddcb27476f12
+116	310	7859456788321378	bootloader/bootloader.bin	e64fddcb27476f12
+116	310	7859456788321378	bootloader/bootloader.map	e64fddcb27476f12
+116	310	7859456788321378	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+116	310	7859456788321378	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+116	310	7859456788321378	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+116	310	7859456788321378	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+310	359	7859456790257611	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+310	359	7859456790257611	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+359	460	7859456791688001	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+359	460	7859456791688001	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+359	460	7859456791688001	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+359	460	7859456791688001	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+112	1464	7859456788271388	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+1464	1874	7859456801801646	esp-idf/main/libmain.a	db8a61fb8e559979
+1874	14853	7859456935404448	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+1874	14853	7859456935404448	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+14853	16395	7859456935689634	esp32_switch_rf.elf	92d2f9a7d55cf12c
+16395	16889	7859456955975381	.bin_timestamp	766c58db123278c7
+16395	16889	7859456955975381	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+16889	17019	7859456956045387	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+16889	17019	7859456956045387	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+117	232	7859457080544668	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+117	232	7859457080544668	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+110	306	7859457080474628	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+110	306	7859457080474628	bootloader/bootloader.elf	e64fddcb27476f12
+110	306	7859457080474628	bootloader/bootloader.bin	e64fddcb27476f12
+110	306	7859457080474628	bootloader/bootloader.map	e64fddcb27476f12
+110	306	7859457080474628	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+110	306	7859457080474628	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+110	306	7859457080474628	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+110	306	7859457080474628	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+306	361	7859457082445084	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+306	361	7859457082445084	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+361	460	7859457083898146	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+361	460	7859457083898146	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+361	460	7859457083898146	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+361	460	7859457083898146	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+460	6756	7859457083978140	CMakeFiles/flash	371d1632cb31e37d
+460	6756	7859457083978140	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+622	883	7860700110926056	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+622	883	7860700110926056	bootloader/bootloader.elf	e64fddcb27476f12
+622	883	7860700110926056	bootloader/bootloader.bin	e64fddcb27476f12
+622	883	7860700110926056	bootloader/bootloader.map	e64fddcb27476f12
+622	883	7860700110926056	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+622	883	7860700110926056	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+622	883	7860700110926056	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+622	883	7860700110926056	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+884	935	7860700113537342	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+884	935	7860700113537342	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+935	1037	7860700115014580	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+935	1037	7860700115014580	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+935	1037	7860700115014580	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+935	1037	7860700115014580	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+613	2417	7860700110835632	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+2418	2931	7860700128877804	esp-idf/main/libmain.a	db8a61fb8e559979
+2931	16706	7860700271390495	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+2931	16706	7860700271390495	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+16706	18184	7860700271771537	esp32_switch_rf.elf	92d2f9a7d55cf12c
+18184	18688	7860700291513067	.bin_timestamp	766c58db123278c7
+18184	18688	7860700291513067	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+18688	18817	7860700291588264	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+18688	18817	7860700291588264	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+120	240	7860700505603372	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+120	240	7860700505603372	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+111	314	7860700505517413	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	314	7860700505517413	bootloader/bootloader.elf	e64fddcb27476f12
+111	314	7860700505517413	bootloader/bootloader.bin	e64fddcb27476f12
+111	314	7860700505517413	bootloader/bootloader.map	e64fddcb27476f12
+111	314	7860700505517413	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	314	7860700505517413	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+111	314	7860700505517413	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+111	314	7860700505517413	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+315	366	7860700507552280	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+315	366	7860700507552280	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+366	468	7860700509013119	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+366	468	7860700509013119	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+366	468	7860700509013119	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+366	468	7860700509013119	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+469	9258	7860700509088250	CMakeFiles/flash	371d1632cb31e37d
+469	9258	7860700509088250	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+131	353	7860702841290707	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+131	353	7860702841290707	bootloader/bootloader.elf	e64fddcb27476f12
+131	353	7860702841290707	bootloader/bootloader.bin	e64fddcb27476f12
+131	353	7860702841290707	bootloader/bootloader.map	e64fddcb27476f12
+131	353	7860702841290707	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+131	353	7860702841290707	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+131	353	7860702841290707	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+131	353	7860702841290707	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+353	407	7860702843505944	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+353	407	7860702843505944	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+407	526	7860702845146764	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+407	526	7860702845146764	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+407	526	7860702845146764	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+407	526	7860702845146764	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+125	1344	7860702841229817	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+1345	1465	7860702853427183	esp-idf/main/libmain.a	db8a61fb8e559979
+1465	12460	7860702964252364	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+1465	12460	7860702964252364	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+12460	13273	7860702964568609	esp32_switch_rf.elf	92d2f9a7d55cf12c
+13274	13606	7860702975947736	.bin_timestamp	766c58db123278c7
+13274	13606	7860702975947736	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+13606	13737	7860702976032864	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+13606	13737	7860702976032864	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+127	242	7860704007499852	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+127	242	7860704007499852	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+118	317	7860704007409650	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+118	317	7860704007409650	bootloader/bootloader.elf	e64fddcb27476f12
+118	317	7860704007409650	bootloader/bootloader.bin	e64fddcb27476f12
+118	317	7860704007409650	bootloader/bootloader.map	e64fddcb27476f12
+118	317	7860704007409650	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+118	317	7860704007409650	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+118	317	7860704007409650	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+118	317	7860704007409650	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+317	370	7860704009401712	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+317	370	7860704009401712	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+370	475	7860704010918242	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+370	475	7860704010918242	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+370	475	7860704010918242	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+370	475	7860704010918242	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+122	245	7860704286047200	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+122	245	7860704286047200	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+115	321	7860704285972122	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+115	321	7860704285972122	bootloader/bootloader.elf	e64fddcb27476f12
+115	321	7860704285972122	bootloader/bootloader.bin	e64fddcb27476f12
+115	321	7860704285972122	bootloader/bootloader.map	e64fddcb27476f12
+115	321	7860704285972122	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+115	321	7860704285972122	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+115	321	7860704285972122	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+115	321	7860704285972122	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+322	374	7860704288038436	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+322	374	7860704288038436	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+374	478	7860704289529826	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+374	478	7860704289529826	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+374	478	7860704289529826	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+374	478	7860704289529826	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+478	6859	7860704289604993	CMakeFiles/flash	371d1632cb31e37d
+478	6859	7860704289604993	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+126	247	7860704887370437	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+126	247	7860704887370437	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+118	331	7860704887285300	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+118	331	7860704887285300	bootloader/bootloader.elf	e64fddcb27476f12
+118	331	7860704887285300	bootloader/bootloader.bin	e64fddcb27476f12
+118	331	7860704887285300	bootloader/bootloader.map	e64fddcb27476f12
+118	331	7860704887285300	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+118	331	7860704887285300	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+118	331	7860704887285300	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+118	331	7860704887285300	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+331	389	7860704889421415	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+331	389	7860704889421415	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+389	498	7860704891022555	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+389	498	7860704891022555	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+389	498	7860704891022555	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+389	498	7860704891022555	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+129	260	7860705604381449	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+129	260	7860705604381449	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+121	341	7860705604311017	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+121	341	7860705604311017	bootloader/bootloader.elf	e64fddcb27476f12
+121	341	7860705604311017	bootloader/bootloader.bin	e64fddcb27476f12
+121	341	7860705604311017	bootloader/bootloader.map	e64fddcb27476f12
+121	341	7860705604311017	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+121	341	7860705604311017	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+121	341	7860705604311017	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+121	341	7860705604311017	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+342	399	7860705606517925	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+342	399	7860705606517925	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+399	504	7860705608069602	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+399	504	7860705608069602	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+399	504	7860705608069602	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+399	504	7860705608069602	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+122	239	7860705700542184	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+122	239	7860705700542184	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+115	318	7860705700462173	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+115	318	7860705700462173	bootloader/bootloader.elf	e64fddcb27476f12
+115	318	7860705700462173	bootloader/bootloader.bin	e64fddcb27476f12
+115	318	7860705700462173	bootloader/bootloader.map	e64fddcb27476f12
+115	318	7860705700462173	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+115	318	7860705700462173	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+115	318	7860705700462173	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+115	318	7860705700462173	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+319	371	7860705702499984	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+319	371	7860705702499984	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+371	472	7860705703970885	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+371	472	7860705703970885	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+371	472	7860705703970885	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+371	472	7860705703970885	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+472	6693	7860705704040890	CMakeFiles/flash	371d1632cb31e37d
+472	6693	7860705704040890	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+127	343	7860714514079634	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+127	343	7860714514079634	bootloader/bootloader.elf	e64fddcb27476f12
+127	343	7860714514079634	bootloader/bootloader.bin	e64fddcb27476f12
+127	343	7860714514079634	bootloader/bootloader.map	e64fddcb27476f12
+127	343	7860714514079634	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+127	343	7860714514079634	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+127	343	7860714514079634	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+127	343	7860714514079634	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+344	399	7860714516256434	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+344	399	7860714516256434	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+399	500	7860714517738923	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+399	500	7860714517738923	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+399	500	7860714517738923	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+399	500	7860714517738923	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+123	1960	7860714514039631	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+1960	2108	7860714532414300	esp-idf/main/libmain.a	db8a61fb8e559979
+2108	12937	7860714641757553	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+2108	12937	7860714641757553	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+12937	13851	7860714642188993	esp32_switch_rf.elf	92d2f9a7d55cf12c
+13851	14185	7860714654590153	.bin_timestamp	766c58db123278c7
+13851	14185	7860714654590153	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+14185	14314	7860714654670209	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+14185	14314	7860714654670209	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+122	329	7860715935034504	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+122	329	7860715935034504	bootloader/bootloader.elf	e64fddcb27476f12
+122	329	7860715935034504	bootloader/bootloader.bin	e64fddcb27476f12
+122	329	7860715935034504	bootloader/bootloader.map	e64fddcb27476f12
+122	329	7860715935034504	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+122	329	7860715935034504	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+122	329	7860715935034504	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+122	329	7860715935034504	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+330	383	7860715937106476	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+330	383	7860715937106476	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+384	489	7860715938633007	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+384	489	7860715938633007	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+384	489	7860715938633007	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+384	489	7860715938633007	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+118	1286	7860715934994482	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+1286	1417	7860715946675204	esp-idf/main/libmain.a	db8a61fb8e559979
+1417	12466	7860716058136102	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+1417	12466	7860716058136102	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+12466	13361	7860716058471803	esp32_switch_rf.elf	92d2f9a7d55cf12c
+13361	13685	7860716070598043	.bin_timestamp	766c58db123278c7
+13361	13685	7860716070598043	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+13685	13807	7860716070668050	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+13685	13807	7860716070668050	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+13807	21703	7860716071888511	CMakeFiles/flash	371d1632cb31e37d
+13807	21703	7860716071888511	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+872	1259	7864732398202381	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+872	1259	7864732398202381	bootloader/bootloader.elf	e64fddcb27476f12
+872	1259	7864732398202381	bootloader/bootloader.bin	e64fddcb27476f12
+872	1259	7864732398202381	bootloader/bootloader.map	e64fddcb27476f12
+872	1259	7864732398202381	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+872	1259	7864732398202381	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+872	1259	7864732398202381	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+872	1259	7864732398202381	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+1259	1339	7864732402072640	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+1259	1339	7864732402072640	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+1339	1432	7864732403753023	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+1339	1432	7864732403753023	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+1339	1432	7864732403753023	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+1339	1432	7864732403753023	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+864	6371	7864732398122406	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+6372	6951	7864732453198185	esp-idf/main/libmain.a	db8a61fb8e559979
+6951	20665	7864732595849207	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+6951	20665	7864732595849207	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+20665	22338	7864732596134382	esp32_switch_rf.elf	92d2f9a7d55cf12c
+22338	22843	7864732617857958	.bin_timestamp	766c58db123278c7
+22338	22843	7864732617857958	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+22843	22958	7864732617907960	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+22843	22958	7864732617907960	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+114	223	7864735397415239	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+114	223	7864735397415239	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+107	292	7864735397345220	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+107	292	7864735397345220	bootloader/bootloader.elf	e64fddcb27476f12
+107	292	7864735397345220	bootloader/bootloader.bin	e64fddcb27476f12
+107	292	7864735397345220	bootloader/bootloader.map	e64fddcb27476f12
+107	292	7864735397345220	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+107	292	7864735397345220	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+107	292	7864735397345220	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+107	292	7864735397345220	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+293	341	7864735399195593	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+293	341	7864735399195593	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+341	437	7864735400580804	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+341	437	7864735400580804	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+341	437	7864735400580804	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+341	437	7864735400580804	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+3927	4123	7865488232103145	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+3927	4123	7865488232103145	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+3920	4173	7865488232033042	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+3920	4173	7865488232033042	bootloader/bootloader.elf	e64fddcb27476f12
+3920	4173	7865488232033042	bootloader/bootloader.bin	e64fddcb27476f12
+3920	4173	7865488232033042	bootloader/bootloader.map	e64fddcb27476f12
+3920	4173	7865488232033042	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+3920	4173	7865488232033042	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+3920	4173	7865488232033042	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+3920	4173	7865488232033042	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+4174	4223	7865488234568316	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+4174	4223	7865488234568316	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+4223	4314	7865488235912289	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+4223	4314	7865488235912289	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+4223	4314	7865488235912289	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+4223	4314	7865488235912289	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+126	237	7865488428817485	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+126	237	7865488428817485	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+119	312	7865488428737492	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+119	312	7865488428737492	bootloader/bootloader.elf	e64fddcb27476f12
+119	312	7865488428737492	bootloader/bootloader.bin	e64fddcb27476f12
+119	312	7865488428737492	bootloader/bootloader.map	e64fddcb27476f12
+119	312	7865488428737492	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+119	312	7865488428737492	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+119	312	7865488428737492	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+119	312	7865488428737492	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+312	361	7865488430674498	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+312	361	7865488430674498	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+361	453	7865488432028136	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+361	453	7865488432028136	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+361	453	7865488432028136	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+361	453	7865488432028136	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+453	6742	7865488432087668	CMakeFiles/flash	371d1632cb31e37d
+453	6742	7865488432087668	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+118	318	7865505838924501	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+118	318	7865505838924501	bootloader/bootloader.elf	e64fddcb27476f12
+118	318	7865505838924501	bootloader/bootloader.bin	e64fddcb27476f12
+118	318	7865505838924501	bootloader/bootloader.map	e64fddcb27476f12
+118	318	7865505838924501	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+118	318	7865505838924501	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+118	318	7865505838924501	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+118	318	7865505838924501	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+318	367	7865505840921336	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+318	367	7865505840921336	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+367	468	7865505842344387	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+367	468	7865505842344387	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+367	468	7865505842344387	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+367	468	7865505842344387	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+110	1649	7865505838834085	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+1650	2909	7865505854231662	esp-idf/main/libmain.a	db8a61fb8e559979
+2909	16317	7865506000610746	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+2909	16317	7865506000610746	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+16318	17592	7865506000911347	esp32_switch_rf.elf	92d2f9a7d55cf12c
+17593	17897	7865506016641810	.bin_timestamp	766c58db123278c7
+17593	17897	7865506016641810	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+17897	18007	7865506016702293	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+17897	18007	7865506016702293	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+116	228	7865506064266781	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+116	228	7865506064266781	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+108	301	7865506064191612	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+108	301	7865506064191612	bootloader/bootloader.elf	e64fddcb27476f12
+108	301	7865506064191612	bootloader/bootloader.bin	e64fddcb27476f12
+108	301	7865506064191612	bootloader/bootloader.map	e64fddcb27476f12
+108	301	7865506064191612	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+108	301	7865506064191612	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+108	301	7865506064191612	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+108	301	7865506064191612	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+301	351	7865506066121349	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+301	351	7865506066121349	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+351	447	7865506067513831	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+351	447	7865506067513831	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+351	447	7865506067513831	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+351	447	7865506067513831	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+447	6809	7865506067583822	CMakeFiles/flash	371d1632cb31e37d
+447	6809	7865506067583822	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+118	311	7865507144468403	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+118	311	7865507144468403	bootloader/bootloader.elf	e64fddcb27476f12
+118	311	7865507144468403	bootloader/bootloader.bin	e64fddcb27476f12
+118	311	7865507144468403	bootloader/bootloader.map	e64fddcb27476f12
+118	311	7865507144468403	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+118	311	7865507144468403	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+118	311	7865507144468403	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+118	311	7865507144468403	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+311	362	7865507146406740	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+311	362	7865507146406740	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+362	460	7865507147807920	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+362	460	7865507147807920	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+362	460	7865507147807920	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+362	460	7865507147807920	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+113	1210	7865507144428392	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+1210	1319	7865507155400589	esp-idf/main/libmain.a	db8a61fb8e559979
+1320	11430	7865507257310215	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+1320	11430	7865507257310215	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+11430	12207	7865507257595501	esp32_switch_rf.elf	92d2f9a7d55cf12c
+12207	12515	7865507268379005	.bin_timestamp	766c58db123278c7
+12207	12515	7865507268379005	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+12515	12625	7865507268444128	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+12515	12625	7865507268444128	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+119	236	7865507322994794	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+119	236	7865507322994794	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+111	309	7865507322914603	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	309	7865507322914603	bootloader/bootloader.elf	e64fddcb27476f12
+111	309	7865507322914603	bootloader/bootloader.bin	e64fddcb27476f12
+111	309	7865507322914603	bootloader/bootloader.map	e64fddcb27476f12
+111	309	7865507322914603	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	309	7865507322914603	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+111	309	7865507322914603	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+111	309	7865507322914603	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+310	360	7865507324899078	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+310	360	7865507324899078	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+361	458	7865507326318208	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+361	458	7865507326318208	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+361	458	7865507326318208	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+361	458	7865507326318208	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+458	6620	7865507326378205	CMakeFiles/flash	371d1632cb31e37d
+458	6620	7865507326378205	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+130	521	7865776218649763	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+130	521	7865776218649763	bootloader/bootloader.elf	e64fddcb27476f12
+130	521	7865776218649763	bootloader/bootloader.bin	e64fddcb27476f12
+130	521	7865776218649763	bootloader/bootloader.map	e64fddcb27476f12
+130	521	7865776218649763	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+130	521	7865776218649763	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+130	521	7865776218649763	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+130	521	7865776218649763	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+521	569	7865776222564130	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+521	569	7865776222564130	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+569	663	7865776223920116	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+569	663	7865776223920116	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+569	663	7865776223920116	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+569	663	7865776223920116	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+116	306	7865777085276917	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+116	306	7865777085276917	bootloader/bootloader.elf	e64fddcb27476f12
+116	306	7865777085276917	bootloader/bootloader.bin	e64fddcb27476f12
+116	306	7865777085276917	bootloader/bootloader.map	e64fddcb27476f12
+116	306	7865777085276917	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+116	306	7865777085276917	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+116	306	7865777085276917	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+116	306	7865777085276917	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+306	354	7865777087175604	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+306	354	7865777087175604	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+354	450	7865777088551114	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+354	450	7865777088551114	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+354	450	7865777088551114	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+354	450	7865777088551114	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+112	1155	7865777085241755	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+1156	1314	7865777095680716	esp-idf/main/libmain.a	db8a61fb8e559979
+1314	14170	7865777225533324	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+1314	14170	7865777225533324	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+14170	14970	7865777225819626	esp32_switch_rf.elf	92d2f9a7d55cf12c
+14971	15281	7865777236866389	.bin_timestamp	766c58db123278c7
+14971	15281	7865777236866389	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+15281	15395	7865777236928036	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+15281	15395	7865777236928036	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+117	226	7865777525799568	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+117	226	7865777525799568	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+110	297	7865777525729148	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+110	297	7865777525729148	bootloader/bootloader.elf	e64fddcb27476f12
+110	297	7865777525729148	bootloader/bootloader.bin	e64fddcb27476f12
+110	297	7865777525729148	bootloader/bootloader.map	e64fddcb27476f12
+110	297	7865777525729148	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+110	297	7865777525729148	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+110	297	7865777525729148	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+110	297	7865777525729148	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+297	347	7865777527598896	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+297	347	7865777527598896	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+347	435	7865777528919780	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+347	435	7865777528919780	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+347	435	7865777528919780	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+347	435	7865777528919780	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+112	226	7865783759613840	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+112	226	7865783759613840	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+105	302	7865783759543219	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+105	302	7865783759543219	bootloader/bootloader.elf	e64fddcb27476f12
+105	302	7865783759543219	bootloader/bootloader.bin	e64fddcb27476f12
+105	302	7865783759543219	bootloader/bootloader.map	e64fddcb27476f12
+105	302	7865783759543219	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+105	302	7865783759543219	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+105	302	7865783759543219	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+105	302	7865783759543219	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+302	354	7865783761512108	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+302	354	7865783761512108	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+354	452	7865783762948283	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+354	452	7865783762948283	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+354	452	7865783762948283	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+354	452	7865783762948283	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+452	6647	7865783763013470	CMakeFiles/flash	371d1632cb31e37d
+452	6647	7865783763013470	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+1768	2403	7866680656005203	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+1768	2403	7866680656005203	bootloader/bootloader.elf	e64fddcb27476f12
+1768	2403	7866680656005203	bootloader/bootloader.bin	e64fddcb27476f12
+1768	2403	7866680656005203	bootloader/bootloader.map	e64fddcb27476f12
+1768	2403	7866680656005203	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+1768	2403	7866680656005203	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+1768	2403	7866680656005203	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+1768	2403	7866680656005203	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+2403	2591	7866680662364129	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+2403	2591	7866680662364129	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+2591	2696	7866680665227548	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+2591	2696	7866680665227548	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+2591	2696	7866680665227548	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+2591	2696	7866680665227548	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+1759	5022	7866680655924904	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+5023	7352	7866680688561970	esp-idf/main/libmain.a	db8a61fb8e559979
+7352	23667	7866680874398682	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+7352	23667	7866680874398682	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+23667	30182	7866680875003323	esp32_switch_rf.elf	92d2f9a7d55cf12c
+30182	30674	7866680944994824	.bin_timestamp	766c58db123278c7
+30182	30674	7866680944994824	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+30674	30817	7866680945074817	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+30674	30817	7866680945074817	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+130	245	7866681154318474	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+130	245	7866681154318474	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+122	317	7866681154242735	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+122	317	7866681154242735	bootloader/bootloader.elf	e64fddcb27476f12
+122	317	7866681154242735	bootloader/bootloader.bin	e64fddcb27476f12
+122	317	7866681154242735	bootloader/bootloader.map	e64fddcb27476f12
+122	317	7866681154242735	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+122	317	7866681154242735	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+122	317	7866681154242735	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+122	317	7866681154242735	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+317	369	7866681156197722	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+317	369	7866681156197722	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+369	464	7866681157599211	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+369	464	7866681157599211	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+369	464	7866681157599211	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+369	464	7866681157599211	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+465	7819	7866681157674270	CMakeFiles/flash	371d1632cb31e37d
+465	7819	7866681157674270	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+135	357	7866691189312193	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+135	357	7866691189312193	bootloader/bootloader.elf	e64fddcb27476f12
+135	357	7866691189312193	bootloader/bootloader.bin	e64fddcb27476f12
+135	357	7866691189312193	bootloader/bootloader.map	e64fddcb27476f12
+135	357	7866691189312193	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+135	357	7866691189312193	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+135	357	7866691189312193	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+135	357	7866691189312193	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+357	408	7866691191531006	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+357	408	7866691191531006	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+408	518	7866691193077466	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+408	518	7866691193077466	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+408	518	7866691193077466	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+408	518	7866691193077466	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+130	1248	7866691189262121	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+1249	1404	7866691200456383	esp-idf/main/libmain.a	db8a61fb8e559979
+1404	12103	7866691308659851	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+1404	12103	7866691308659851	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+12103	12950	7866691309002089	esp32_switch_rf.elf	92d2f9a7d55cf12c
+12950	13288	7866691320775462	.bin_timestamp	766c58db123278c7
+12950	13288	7866691320775462	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+13288	13401	7866691320850558	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+13288	13401	7866691320850558	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+136	266	7866691371239194	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+136	266	7866691371239194	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+128	343	7866691371164137	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+128	343	7866691371164137	bootloader/bootloader.elf	e64fddcb27476f12
+128	343	7866691371164137	bootloader/bootloader.bin	e64fddcb27476f12
+128	343	7866691371164137	bootloader/bootloader.map	e64fddcb27476f12
+128	343	7866691371164137	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+128	343	7866691371164137	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+128	343	7866691371164137	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+128	343	7866691371164137	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+343	393	7866691373314112	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+343	393	7866691373314112	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+393	492	7866691374733130	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+393	492	7866691374733130	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+393	492	7866691374733130	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+393	492	7866691374733130	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+492	6706	7866691374803116	CMakeFiles/flash	371d1632cb31e37d
+492	6706	7866691374803116	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+134	361	7866700951173170	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+134	361	7866700951173170	bootloader/bootloader.elf	e64fddcb27476f12
+134	361	7866700951173170	bootloader/bootloader.bin	e64fddcb27476f12
+134	361	7866700951173170	bootloader/bootloader.map	e64fddcb27476f12
+134	361	7866700951173170	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+134	361	7866700951173170	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+134	361	7866700951173170	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+134	361	7866700951173170	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+362	420	7866700953451742	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+362	420	7866700953451742	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+420	525	7866700955028307	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+420	525	7866700955028307	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+420	525	7866700955028307	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+420	525	7866700955028307	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+130	1436	7866700951128109	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+1436	1607	7866700964199728	esp-idf/main/libmain.a	db8a61fb8e559979
+1607	12886	7866701078320896	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+1607	12886	7866701078320896	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+12886	13781	7866701078692950	esp32_switch_rf.elf	92d2f9a7d55cf12c
+13781	14171	7866701091454068	.bin_timestamp	766c58db123278c7
+13781	14171	7866701091454068	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+14171	14291	7866701091539190	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+14171	14291	7866701091539190	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+127	246	7866701214929089	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+127	246	7866701214929089	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+120	324	7866701214849595	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+120	324	7866701214849595	bootloader/bootloader.elf	e64fddcb27476f12
+120	324	7866701214849595	bootloader/bootloader.bin	e64fddcb27476f12
+120	324	7866701214849595	bootloader/bootloader.map	e64fddcb27476f12
+120	324	7866701214849595	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+120	324	7866701214849595	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+120	324	7866701214849595	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+120	324	7866701214849595	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+325	378	7866701216899726	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+325	378	7866701216899726	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+378	481	7866701218389389	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+378	481	7866701218389389	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+378	481	7866701218389389	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+378	481	7866701218389389	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+481	6719	7866701218459392	CMakeFiles/flash	371d1632cb31e37d
+481	6719	7866701218459392	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+137	301	7866701699839375	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+137	301	7866701699839375	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+127	406	7866701699744203	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+127	406	7866701699744203	bootloader/bootloader.elf	e64fddcb27476f12
+127	406	7866701699744203	bootloader/bootloader.bin	e64fddcb27476f12
+127	406	7866701699744203	bootloader/bootloader.map	e64fddcb27476f12
+127	406	7866701699744203	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+127	406	7866701699744203	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+127	406	7866701699744203	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+127	406	7866701699744203	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+407	467	7866701702543830	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+407	467	7866701702543830	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+467	574	7866701704135599	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+467	574	7866701704135599	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+467	574	7866701704135599	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+467	574	7866701704135599	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+574	7128	7866701704216648	CMakeFiles/flash	371d1632cb31e37d
+574	7128	7866701704216648	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+122	355	7866707376106136	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+126	372	7866707376141268	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+126	372	7866707376141268	bootloader/bootloader.elf	e64fddcb27476f12
+126	372	7866707376141268	bootloader/bootloader.bin	e64fddcb27476f12
+126	372	7866707376141268	bootloader/bootloader.map	e64fddcb27476f12
+126	372	7866707376141268	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+126	372	7866707376141268	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+126	372	7866707376141268	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+126	372	7866707376141268	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+373	429	7866707378611894	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+373	429	7866707378611894	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+356	544	7866707378441051	esp-idf/main/libmain.a	db8a61fb8e559979
+429	565	7866707380444214	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+429	565	7866707380444214	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+429	565	7866707380444214	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+429	565	7866707380444214	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+544	11226	7866707486807477	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+544	11226	7866707486807477	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+11226	12051	7866707487139169	esp32_switch_rf.elf	92d2f9a7d55cf12c
+12051	12356	7866707498371872	.bin_timestamp	766c58db123278c7
+12051	12356	7866707498371872	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+12356	12468	7866707498447017	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+12356	12468	7866707498447017	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+124	234	7866708017228239	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+124	234	7866708017228239	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+116	309	7866708017158072	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+116	309	7866708017158072	bootloader/bootloader.elf	e64fddcb27476f12
+116	309	7866708017158072	bootloader/bootloader.bin	e64fddcb27476f12
+116	309	7866708017158072	bootloader/bootloader.map	e64fddcb27476f12
+116	309	7866708017158072	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+116	309	7866708017158072	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+116	309	7866708017158072	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+116	309	7866708017158072	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+309	359	7866708019085928	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+309	359	7866708019085928	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+360	457	7866708020495139	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+360	457	7866708020495139	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+360	457	7866708020495139	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+360	457	7866708020495139	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+458	6842	7866708020565337	CMakeFiles/flash	371d1632cb31e37d
+458	6842	7866708020565337	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+721	1136	7875203883760389	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+721	1136	7875203883760389	bootloader/bootloader.elf	e64fddcb27476f12
+721	1136	7875203883760389	bootloader/bootloader.bin	e64fddcb27476f12
+721	1136	7875203883760389	bootloader/bootloader.map	e64fddcb27476f12
+721	1136	7875203883760389	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+721	1136	7875203883760389	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+721	1136	7875203883760389	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+721	1136	7875203883760389	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+1136	1224	7875203887909506	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+1136	1224	7875203887909506	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+1225	1343	7875203889914878	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+1225	1343	7875203889914878	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+1225	1343	7875203889914878	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+1225	1343	7875203889914878	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+712	2672	7875203883675260	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+2672	3194	7875203903267342	esp-idf/main/libmain.a	db8a61fb8e559979
+3194	17142	7875204047634479	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+3194	17142	7875204047634479	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+17142	18669	7875204047974957	esp32_switch_rf.elf	92d2f9a7d55cf12c
+18669	19015	7875204066630303	.bin_timestamp	766c58db123278c7
+18669	19015	7875204066630303	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+19015	19184	7875204066700444	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+19015	19184	7875204066700444	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+126	251	7875204418197177	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+126	251	7875204418197177	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+118	325	7875204418112079	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+118	325	7875204418112079	bootloader/bootloader.elf	e64fddcb27476f12
+118	325	7875204418112079	bootloader/bootloader.bin	e64fddcb27476f12
+118	325	7875204418112079	bootloader/bootloader.map	e64fddcb27476f12
+118	325	7875204418112079	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+118	325	7875204418112079	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+118	325	7875204418112079	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+118	325	7875204418112079	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+325	378	7875204420186597	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+325	378	7875204420186597	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+378	478	7875204421650011	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+378	478	7875204421650011	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+378	478	7875204421650011	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+378	478	7875204421650011	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+118	239	7875206194736949	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+118	239	7875206194736949	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+110	315	7875206194661875	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+110	315	7875206194661875	bootloader/bootloader.elf	e64fddcb27476f12
+110	315	7875206194661875	bootloader/bootloader.bin	e64fddcb27476f12
+110	315	7875206194661875	bootloader/bootloader.map	e64fddcb27476f12
+110	315	7875206194661875	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+110	315	7875206194661875	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+110	315	7875206194661875	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+110	315	7875206194661875	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+315	362	7875206196714261	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+315	362	7875206196714261	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+362	467	7875206198161976	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+362	467	7875206198161976	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+362	467	7875206198161976	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+362	467	7875206198161976	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+121	247	7875207028261962	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+121	247	7875207028261962	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+112	326	7875207028161377	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+112	326	7875207028161377	bootloader/bootloader.elf	e64fddcb27476f12
+112	326	7875207028161377	bootloader/bootloader.bin	e64fddcb27476f12
+112	326	7875207028161377	bootloader/bootloader.map	e64fddcb27476f12
+112	326	7875207028161377	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+112	326	7875207028161377	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+112	326	7875207028161377	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+112	326	7875207028161377	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+326	378	7875207030307464	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+326	378	7875207030307464	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+378	480	7875207031778637	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+378	480	7875207031778637	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+378	480	7875207031778637	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+378	480	7875207031778637	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+119	231	7875208499666905	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+119	231	7875208499666905	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+111	307	7875208499591627	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	307	7875208499591627	bootloader/bootloader.elf	e64fddcb27476f12
+111	307	7875208499591627	bootloader/bootloader.bin	e64fddcb27476f12
+111	307	7875208499591627	bootloader/bootloader.map	e64fddcb27476f12
+111	307	7875208499591627	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	307	7875208499591627	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+111	307	7875208499591627	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+111	307	7875208499591627	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+307	358	7875208501553732	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+307	358	7875208501553732	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+358	456	7875208502984014	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+358	456	7875208502984014	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+358	456	7875208502984014	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+358	456	7875208502984014	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+118	232	7875210525501432	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+118	232	7875210525501432	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+110	305	7875210525421113	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+110	305	7875210525421113	bootloader/bootloader.elf	e64fddcb27476f12
+110	305	7875210525421113	bootloader/bootloader.bin	e64fddcb27476f12
+110	305	7875210525421113	bootloader/bootloader.map	e64fddcb27476f12
+110	305	7875210525421113	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+110	305	7875210525421113	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+110	305	7875210525421113	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+110	305	7875210525421113	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+305	355	7875210527372278	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+305	355	7875210527372278	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+355	456	7875210528809517	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+355	456	7875210528809517	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+355	456	7875210528809517	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+355	456	7875210528809517	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+116	229	7875211000615547	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+116	229	7875211000615547	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+108	303	7875211000530341	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+108	303	7875211000530341	bootloader/bootloader.elf	e64fddcb27476f12
+108	303	7875211000530341	bootloader/bootloader.bin	e64fddcb27476f12
+108	303	7875211000530341	bootloader/bootloader.map	e64fddcb27476f12
+108	303	7875211000530341	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+108	303	7875211000530341	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+108	303	7875211000530341	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+108	303	7875211000530341	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+303	354	7875211002484237	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+303	354	7875211002484237	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+354	453	7875211003919390	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+354	453	7875211003919390	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+354	453	7875211003919390	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+354	453	7875211003919390	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+119	232	7875212294190645	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+119	232	7875212294190645	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+111	305	7875212294105487	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	305	7875212294105487	bootloader/bootloader.elf	e64fddcb27476f12
+111	305	7875212294105487	bootloader/bootloader.bin	e64fddcb27476f12
+111	305	7875212294105487	bootloader/bootloader.map	e64fddcb27476f12
+111	305	7875212294105487	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	305	7875212294105487	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+111	305	7875212294105487	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+111	305	7875212294105487	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+305	354	7875212296055120	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+305	354	7875212296055120	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+354	453	7875212297467084	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+354	453	7875212297467084	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+354	453	7875212297467084	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+354	453	7875212297467084	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+116	230	7875212686136890	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+116	230	7875212686136890	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+108	304	7875212686056907	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+108	304	7875212686056907	bootloader/bootloader.elf	e64fddcb27476f12
+108	304	7875212686056907	bootloader/bootloader.bin	e64fddcb27476f12
+108	304	7875212686056907	bootloader/bootloader.map	e64fddcb27476f12
+108	304	7875212686056907	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+108	304	7875212686056907	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+108	304	7875212686056907	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+108	304	7875212686056907	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+304	355	7875212688020525	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+304	355	7875212688020525	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+355	455	7875212689469142	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+355	455	7875212689469142	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+355	455	7875212689469142	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+355	455	7875212689469142	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+4260	4537	7875216353106829	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+4260	4537	7875216353106829	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+4252	4667	7875216353026787	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+4252	4667	7875216353026787	bootloader/bootloader.elf	e64fddcb27476f12
+4252	4667	7875216353026787	bootloader/bootloader.bin	e64fddcb27476f12
+4252	4667	7875216353026787	bootloader/bootloader.map	e64fddcb27476f12
+4252	4667	7875216353026787	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+4252	4667	7875216353026787	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+4252	4667	7875216353026787	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+4252	4667	7875216353026787	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+4668	4713	7875216357178751	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+4668	4713	7875216357178751	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+4713	4800	7875216358457961	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+4713	4800	7875216358457961	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+4713	4800	7875216358457961	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+4713	4800	7875216358457961	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+122	233	7875217954878164	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+122	233	7875217954878164	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+114	300	7875217954798011	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+114	300	7875217954798011	bootloader/bootloader.elf	e64fddcb27476f12
+114	300	7875217954798011	bootloader/bootloader.bin	e64fddcb27476f12
+114	300	7875217954798011	bootloader/bootloader.map	e64fddcb27476f12
+114	300	7875217954798011	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+114	300	7875217954798011	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+114	300	7875217954798011	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+114	300	7875217954798011	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+300	346	7875217956653638	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+300	346	7875217956653638	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+346	432	7875217957926161	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+346	432	7875217957926161	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+346	432	7875217957926161	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+346	432	7875217957926161	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+120	227	7875218162054097	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+120	227	7875218162054097	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+113	292	7875218161993255	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+113	292	7875218161993255	bootloader/bootloader.elf	e64fddcb27476f12
+113	292	7875218161993255	bootloader/bootloader.bin	e64fddcb27476f12
+113	292	7875218161993255	bootloader/bootloader.map	e64fddcb27476f12
+113	292	7875218161993255	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+113	292	7875218161993255	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+113	292	7875218161993255	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+113	292	7875218161993255	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+293	337	7875218163784116	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+293	337	7875218163784116	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+337	424	7875218165042274	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+337	424	7875218165042274	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+337	424	7875218165042274	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+337	424	7875218165042274	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+134	242	7875238459144216	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+134	242	7875238459144216	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+126	551	7875238459059039	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+126	551	7875238459059039	bootloader/bootloader.elf	e64fddcb27476f12
+126	551	7875238459059039	bootloader/bootloader.bin	e64fddcb27476f12
+126	551	7875238459059039	bootloader/bootloader.map	e64fddcb27476f12
+126	551	7875238459059039	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+126	551	7875238459059039	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+126	551	7875238459059039	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+126	551	7875238459059039	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+551	601	7875238463306664	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+551	601	7875238463306664	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+601	704	7875238464773182	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+601	704	7875238464773182	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+601	704	7875238464773182	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+601	704	7875238464773182	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+118	229	7875246612171369	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+118	229	7875246612171369	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+111	306	7875246612096216	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	306	7875246612096216	bootloader/bootloader.elf	e64fddcb27476f12
+111	306	7875246612096216	bootloader/bootloader.bin	e64fddcb27476f12
+111	306	7875246612096216	bootloader/bootloader.map	e64fddcb27476f12
+111	306	7875246612096216	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	306	7875246612096216	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+111	306	7875246612096216	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+111	306	7875246612096216	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+306	354	7875246614050086	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+306	354	7875246614050086	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+354	448	7875246615410621	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+354	448	7875246615410621	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+354	448	7875246615410621	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+354	448	7875246615410621	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+118	228	7875246751392034	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+118	228	7875246751392034	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+110	301	7875246751310907	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+110	301	7875246751310907	bootloader/bootloader.elf	e64fddcb27476f12
+110	301	7875246751310907	bootloader/bootloader.bin	e64fddcb27476f12
+110	301	7875246751310907	bootloader/bootloader.map	e64fddcb27476f12
+110	301	7875246751310907	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+110	301	7875246751310907	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+110	301	7875246751310907	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+110	301	7875246751310907	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+301	350	7875246753220911	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+301	350	7875246753220911	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+350	447	7875246754625352	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+350	447	7875246754625352	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+350	447	7875246754625352	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+350	447	7875246754625352	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+2945	3114	7875258524366841	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+2945	3114	7875258524366841	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+2938	3190	7875258524286790	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+2938	3190	7875258524286790	bootloader/bootloader.elf	e64fddcb27476f12
+2938	3190	7875258524286790	bootloader/bootloader.bin	e64fddcb27476f12
+2938	3190	7875258524286790	bootloader/bootloader.map	e64fddcb27476f12
+2938	3190	7875258524286790	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+2938	3190	7875258524286790	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+2938	3190	7875258524286790	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+2938	3190	7875258524286790	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+3190	3241	7875258526811034	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+3190	3241	7875258526811034	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+3241	3337	7875258528232500	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+3241	3337	7875258528232500	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+3241	3337	7875258528232500	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+3241	3337	7875258528232500	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+125	238	7875264048142382	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+125	238	7875264048142382	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+117	307	7875264048067220	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+117	307	7875264048067220	bootloader/bootloader.elf	e64fddcb27476f12
+117	307	7875264048067220	bootloader/bootloader.bin	e64fddcb27476f12
+117	307	7875264048067220	bootloader/bootloader.map	e64fddcb27476f12
+117	307	7875264048067220	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+117	307	7875264048067220	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+117	307	7875264048067220	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+117	307	7875264048067220	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+308	357	7875264049973061	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+308	357	7875264049973061	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+357	448	7875264051313344	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+357	448	7875264051313344	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+357	448	7875264051313344	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+357	448	7875264051313344	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+116	224	7875264201522947	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+116	224	7875264201522947	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+109	296	7875264201447872	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+109	296	7875264201447872	bootloader/bootloader.elf	e64fddcb27476f12
+109	296	7875264201447872	bootloader/bootloader.bin	e64fddcb27476f12
+109	296	7875264201447872	bootloader/bootloader.map	e64fddcb27476f12
+109	296	7875264201447872	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+109	296	7875264201447872	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+109	296	7875264201447872	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+109	296	7875264201447872	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+296	347	7875264203323348	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+296	347	7875264203323348	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+347	438	7875264204691305	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+347	438	7875264204691305	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+347	438	7875264204691305	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+347	438	7875264204691305	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+120	239	7875269750441821	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+120	239	7875269750441821	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+112	321	7875269750361761	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+112	321	7875269750361761	bootloader/bootloader.elf	e64fddcb27476f12
+112	321	7875269750361761	bootloader/bootloader.bin	e64fddcb27476f12
+112	321	7875269750361761	bootloader/bootloader.map	e64fddcb27476f12
+112	321	7875269750361761	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+112	321	7875269750361761	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+112	321	7875269750361761	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+112	321	7875269750361761	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+321	373	7875269752445616	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+321	373	7875269752445616	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+373	473	7875269753911867	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+373	473	7875269753911867	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+373	473	7875269753911867	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+373	473	7875269753911867	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+124	239	7875275370838136	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+124	239	7875275370838136	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+116	310	7875275370752843	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+116	310	7875275370752843	bootloader/bootloader.elf	e64fddcb27476f12
+116	310	7875275370752843	bootloader/bootloader.bin	e64fddcb27476f12
+116	310	7875275370752843	bootloader/bootloader.map	e64fddcb27476f12
+116	310	7875275370752843	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+116	310	7875275370752843	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+116	310	7875275370752843	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+116	310	7875275370752843	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+310	360	7875275372687269	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+310	360	7875275372687269	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+360	451	7875275374054854	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+360	451	7875275374054854	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+360	451	7875275374054854	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+360	451	7875275374054854	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+116	225	7875275527733501	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+116	225	7875275527733501	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+108	296	7875275527652583	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+108	296	7875275527652583	bootloader/bootloader.elf	e64fddcb27476f12
+108	296	7875275527652583	bootloader/bootloader.bin	e64fddcb27476f12
+108	296	7875275527652583	bootloader/bootloader.map	e64fddcb27476f12
+108	296	7875275527652583	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+108	296	7875275527652583	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+108	296	7875275527652583	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+108	296	7875275527652583	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+297	345	7875275529544485	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+297	345	7875275529544485	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+346	436	7875275530883386	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+346	436	7875275530883386	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+346	436	7875275530883386	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+346	436	7875275530883386	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+121	232	7875290560017272	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+121	232	7875290560017272	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+114	302	7875290559942185	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+114	302	7875290559942185	bootloader/bootloader.elf	e64fddcb27476f12
+114	302	7875290559942185	bootloader/bootloader.bin	e64fddcb27476f12
+114	302	7875290559942185	bootloader/bootloader.map	e64fddcb27476f12
+114	302	7875290559942185	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+114	302	7875290559942185	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+114	302	7875290559942185	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+114	302	7875290559942185	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+302	353	7875290561823438	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+302	353	7875290561823438	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+353	446	7875290563209450	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+353	446	7875290563209450	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+353	446	7875290563209450	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+353	446	7875290563209450	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+125	240	7875291491770894	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+125	240	7875291491770894	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+117	324	7875291491698718	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+117	324	7875291491698718	bootloader/bootloader.elf	e64fddcb27476f12
+117	324	7875291491698718	bootloader/bootloader.bin	e64fddcb27476f12
+117	324	7875291491698718	bootloader/bootloader.map	e64fddcb27476f12
+117	324	7875291491698718	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+117	324	7875291491698718	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+117	324	7875291491698718	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+117	324	7875291491698718	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+324	377	7875291493760815	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+324	377	7875291493760815	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+377	471	7875291495185534	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+377	471	7875291495185534	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+377	471	7875291495185534	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+377	471	7875291495185534	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+123	237	7875291587194401	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+123	237	7875291587194401	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+115	305	7875291587118332	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+115	305	7875291587118332	bootloader/bootloader.elf	e64fddcb27476f12
+115	305	7875291587118332	bootloader/bootloader.bin	e64fddcb27476f12
+115	305	7875291587118332	bootloader/bootloader.map	e64fddcb27476f12
+115	305	7875291587118332	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+115	305	7875291587118332	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+115	305	7875291587118332	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+115	305	7875291587118332	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+306	356	7875291589022469	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+306	356	7875291589022469	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+356	459	7875291590479602	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+356	459	7875291590479602	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+356	459	7875291590479602	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+356	459	7875291590479602	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+117	225	7875301422367594	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+117	225	7875301422367594	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+110	294	7875301422292382	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+110	294	7875301422292382	bootloader/bootloader.elf	e64fddcb27476f12
+110	294	7875301422292382	bootloader/bootloader.bin	e64fddcb27476f12
+110	294	7875301422292382	bootloader/bootloader.map	e64fddcb27476f12
+110	294	7875301422292382	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+110	294	7875301422292382	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+110	294	7875301422292382	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+110	294	7875301422292382	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+294	341	7875301424144855	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+294	341	7875301424144855	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+341	432	7875301425465623	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+341	432	7875301425465623	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+341	432	7875301425465623	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+341	432	7875301425465623	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+117	227	7875301589236216	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+117	227	7875301589236216	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+109	303	7875301589166126	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+109	303	7875301589166126	bootloader/bootloader.elf	e64fddcb27476f12
+109	303	7875301589166126	bootloader/bootloader.bin	e64fddcb27476f12
+109	303	7875301589166126	bootloader/bootloader.map	e64fddcb27476f12
+109	303	7875301589166126	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+109	303	7875301589166126	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+109	303	7875301589166126	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+109	303	7875301589166126	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+303	353	7875301591099214	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+303	353	7875301591099214	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+353	444	7875301592447482	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+353	444	7875301592447482	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+353	444	7875301592447482	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+353	444	7875301592447482	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+115	223	7875303975551013	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+115	223	7875303975551013	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+108	291	7875303975478898	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+108	291	7875303975478898	bootloader/bootloader.elf	e64fddcb27476f12
+108	291	7875303975478898	bootloader/bootloader.bin	e64fddcb27476f12
+108	291	7875303975478898	bootloader/bootloader.map	e64fddcb27476f12
+108	291	7875303975478898	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+108	291	7875303975478898	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+108	291	7875303975478898	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+108	291	7875303975478898	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+291	339	7875303977305862	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+291	339	7875303977305862	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+339	427	7875303978614089	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+339	427	7875303978614089	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+339	427	7875303978614089	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+339	427	7875303978614089	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+119	225	7875304034283580	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+119	225	7875304034283580	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+111	295	7875304034212944	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	295	7875304034212944	bootloader/bootloader.elf	e64fddcb27476f12
+111	295	7875304034212944	bootloader/bootloader.bin	e64fddcb27476f12
+111	295	7875304034212944	bootloader/bootloader.map	e64fddcb27476f12
+111	295	7875304034212944	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	295	7875304034212944	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+111	295	7875304034212944	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+111	295	7875304034212944	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+295	343	7875304036048745	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+295	343	7875304036048745	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+343	432	7875304037366677	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+343	432	7875304037366677	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+343	432	7875304037366677	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+343	432	7875304037366677	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+123	234	7875304349727359	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+123	234	7875304349727359	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+116	307	7875304349656778	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+116	307	7875304349656778	bootloader/bootloader.elf	e64fddcb27476f12
+116	307	7875304349656778	bootloader/bootloader.bin	e64fddcb27476f12
+116	307	7875304349656778	bootloader/bootloader.map	e64fddcb27476f12
+116	307	7875304349656778	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+116	307	7875304349656778	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+116	307	7875304349656778	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+116	307	7875304349656778	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+307	356	7875304351568665	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+307	356	7875304351568665	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+356	445	7875304352898664	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+356	445	7875304352898664	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+356	445	7875304352898664	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+356	445	7875304352898664	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+120	231	7875306011792107	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+120	231	7875306011792107	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+113	301	7875306011711468	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+113	301	7875306011711468	bootloader/bootloader.elf	e64fddcb27476f12
+113	301	7875306011711468	bootloader/bootloader.bin	e64fddcb27476f12
+113	301	7875306011711468	bootloader/bootloader.map	e64fddcb27476f12
+113	301	7875306011711468	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+113	301	7875306011711468	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+113	301	7875306011711468	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+113	301	7875306011711468	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+301	349	7875306013597613	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+301	349	7875306013597613	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+349	438	7875306014916586	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+349	438	7875306014916586	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+349	438	7875306014916586	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+349	438	7875306014916586	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+121	234	7875306231436460	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+121	234	7875306231436460	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+113	310	7875306231363541	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+113	310	7875306231363541	bootloader/bootloader.elf	e64fddcb27476f12
+113	310	7875306231363541	bootloader/bootloader.bin	e64fddcb27476f12
+113	310	7875306231363541	bootloader/bootloader.map	e64fddcb27476f12
+113	310	7875306231363541	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+113	310	7875306231363541	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+113	310	7875306231363541	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+113	310	7875306231363541	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+311	361	7875306233334998	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+311	361	7875306233334998	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+361	452	7875306234696471	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+361	452	7875306234696471	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+361	452	7875306234696471	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+361	452	7875306234696471	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+117	230	7875306484463580	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+117	230	7875306484463580	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+109	303	7875306484393536	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+109	303	7875306484393536	bootloader/bootloader.elf	e64fddcb27476f12
+109	303	7875306484393536	bootloader/bootloader.bin	e64fddcb27476f12
+109	303	7875306484393536	bootloader/bootloader.map	e64fddcb27476f12
+109	303	7875306484393536	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+109	303	7875306484393536	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+109	303	7875306484393536	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+109	303	7875306484393536	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+303	349	7875306486324387	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+303	349	7875306486324387	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+350	438	7875306487627162	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+350	438	7875306487627162	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+350	438	7875306487627162	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+350	438	7875306487627162	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+139	256	7875307345452878	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+139	256	7875307345452878	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+130	332	7875307345362042	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+130	332	7875307345362042	bootloader/bootloader.elf	e64fddcb27476f12
+130	332	7875307345362042	bootloader/bootloader.bin	e64fddcb27476f12
+130	332	7875307345362042	bootloader/bootloader.map	e64fddcb27476f12
+130	332	7875307345362042	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+130	332	7875307345362042	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+130	332	7875307345362042	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+130	332	7875307345362042	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+332	380	7875307347375163	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+332	380	7875307347375163	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+380	469	7875307348689602	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+380	469	7875307348689602	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+380	469	7875307348689602	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+380	469	7875307348689602	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+6331	7036	7881378127955474	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+6331	7036	7881378127955474	bootloader/bootloader.elf	e64fddcb27476f12
+6331	7036	7881378127955474	bootloader/bootloader.bin	e64fddcb27476f12
+6331	7036	7881378127955474	bootloader/bootloader.map	e64fddcb27476f12
+6331	7036	7881378127955474	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+6331	7036	7881378127955474	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+6331	7036	7881378127955474	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+6331	7036	7881378127955474	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+7037	7101	7881378135006347	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+7037	7101	7881378135006347	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+7101	7199	7881378136565110	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+7101	7199	7881378136565110	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+7101	7199	7881378136565110	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+7101	7199	7881378136565110	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+6321	11122	7881378127850261	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+11122	11785	7881378175862150	esp-idf/main/libmain.a	db8a61fb8e559979
+11785	25993	7881378324205133	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+11785	25993	7881378324205133	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+25994	27925	7881378324579693	esp32_switch_rf.elf	92d2f9a7d55cf12c
+27925	28306	7881378347627041	.bin_timestamp	766c58db123278c7
+27925	28306	7881378347627041	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+28306	28447	7881378347702176	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+28306	28447	7881378347702176	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+28447	35005	7881378349109454	CMakeFiles/flash	371d1632cb31e37d
+28447	35005	7881378349109454	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+647	912	7900138864486567	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+647	912	7900138864486567	bootloader/bootloader.elf	e64fddcb27476f12
+647	912	7900138864486567	bootloader/bootloader.bin	e64fddcb27476f12
+647	912	7900138864486567	bootloader/bootloader.map	e64fddcb27476f12
+647	912	7900138864486567	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+647	912	7900138864486567	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+647	912	7900138864486567	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+647	912	7900138864486567	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+912	960	7900138867137151	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+912	960	7900138867137151	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+960	1055	7900138868502307	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+960	1055	7900138868502307	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+960	1055	7900138868502307	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+960	1055	7900138868502307	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+639	7862	7900138864406551	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+7862	8292	7900138936633046	esp-idf/main/libmain.a	db8a61fb8e559979
+8292	21689	7900139074619679	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+8292	21689	7900139074619679	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+21689	23113	7900139074910098	esp32_switch_rf.elf	92d2f9a7d55cf12c
+23113	23432	7900139092281114	.bin_timestamp	766c58db123278c7
+23113	23432	7900139092281114	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+23432	23556	7900139092331093	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+23432	23556	7900139092331093	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+116	227	7900139185723183	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+116	227	7900139185723183	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+108	289	7900139185653162	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+108	289	7900139185653162	bootloader/bootloader.elf	e64fddcb27476f12
+108	289	7900139185653162	bootloader/bootloader.bin	e64fddcb27476f12
+108	289	7900139185653162	bootloader/bootloader.map	e64fddcb27476f12
+108	289	7900139185653162	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+108	289	7900139185653162	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+108	289	7900139185653162	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+108	289	7900139185653162	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+289	333	7900139187458769	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+289	333	7900139187458769	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+334	413	7900139188644125	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+334	413	7900139188644125	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+334	413	7900139188644125	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+334	413	7900139188644125	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+413	6666	7900139188694117	CMakeFiles/flash	371d1632cb31e37d
+413	6666	7900139188694117	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+113	301	7900142174145420	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+113	301	7900142174145420	bootloader/bootloader.elf	e64fddcb27476f12
+113	301	7900142174145420	bootloader/bootloader.bin	e64fddcb27476f12
+113	301	7900142174145420	bootloader/bootloader.map	e64fddcb27476f12
+113	301	7900142174145420	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+113	301	7900142174145420	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+113	301	7900142174145420	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+113	301	7900142174145420	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+301	348	7900142176025848	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+301	348	7900142176025848	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+348	431	7900142177261103	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+348	431	7900142177261103	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+348	431	7900142177261103	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+348	431	7900142177261103	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+109	1193	7900142174105321	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+1193	1303	7900142184945668	esp-idf/main/libmain.a	db8a61fb8e559979
+1303	11542	7900142288131163	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+1303	11542	7900142288131163	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+11542	12344	7900142288436369	esp32_switch_rf.elf	92d2f9a7d55cf12c
+12344	12638	7900142299330705	.bin_timestamp	766c58db123278c7
+12344	12638	7900142299330705	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+12638	12746	7900142299400724	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+12638	12746	7900142299400724	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+125	241	7900142532004154	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+125	241	7900142532004154	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+117	301	7900142531924152	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+117	301	7900142531924152	bootloader/bootloader.elf	e64fddcb27476f12
+117	301	7900142531924152	bootloader/bootloader.bin	e64fddcb27476f12
+117	301	7900142531924152	bootloader/bootloader.map	e64fddcb27476f12
+117	301	7900142531924152	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+117	301	7900142531924152	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+117	301	7900142531924152	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+117	301	7900142531924152	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+301	346	7900142533764640	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+301	346	7900142533764640	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+346	429	7900142534989982	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+346	429	7900142534989982	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+346	429	7900142534989982	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+346	429	7900142534989982	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+430	6774	7900142535049954	CMakeFiles/flash	371d1632cb31e37d
+430	6774	7900142535049954	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+114	308	7900156375789426	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+114	308	7900156375789426	bootloader/bootloader.elf	e64fddcb27476f12
+114	308	7900156375789426	bootloader/bootloader.bin	e64fddcb27476f12
+114	308	7900156375789426	bootloader/bootloader.map	e64fddcb27476f12
+114	308	7900156375789426	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+114	308	7900156375789426	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+114	308	7900156375789426	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+114	308	7900156375789426	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+308	355	7900156377739830	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+308	355	7900156377739830	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+355	442	7900156379015045	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+355	442	7900156379015045	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+355	442	7900156379015045	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+355	442	7900156379015045	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+110	1249	7900156375749428	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+1249	1355	7900156387146858	esp-idf/main/libmain.a	db8a61fb8e559979
+1355	11601	7900156490361086	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+1355	11601	7900156490361086	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+11601	12450	7900156490661059	esp32_switch_rf.elf	92d2f9a7d55cf12c
+12450	12750	7900156502081143	.bin_timestamp	766c58db123278c7
+12450	12750	7900156502081143	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+12750	12858	7900156502152433	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+12750	12858	7900156502152433	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+118	235	7900156586567709	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+118	235	7900156586567709	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+109	305	7900156586477703	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+109	305	7900156586477703	bootloader/bootloader.elf	e64fddcb27476f12
+109	305	7900156586477703	bootloader/bootloader.bin	e64fddcb27476f12
+109	305	7900156586477703	bootloader/bootloader.map	e64fddcb27476f12
+109	305	7900156586477703	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+109	305	7900156586477703	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+109	305	7900156586477703	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+109	305	7900156586477703	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+305	350	7900156588438086	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+305	350	7900156588438086	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+350	434	7900156589658388	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+350	434	7900156589658388	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+350	434	7900156589658388	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+350	434	7900156589658388	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+434	6615	7900156589728390	CMakeFiles/flash	371d1632cb31e37d
+434	6615	7900156589728390	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/flash	371d1632cb31e37d
+111	300	7900158205457252	bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	300	7900158205457252	bootloader/bootloader.elf	e64fddcb27476f12
+111	300	7900158205457252	bootloader/bootloader.bin	e64fddcb27476f12
+111	300	7900158205457252	bootloader/bootloader.map	e64fddcb27476f12
+111	300	7900158205457252	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	e64fddcb27476f12
+111	300	7900158205457252	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf	e64fddcb27476f12
+111	300	7900158205457252	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.bin	e64fddcb27476f12
+111	300	7900158205457252	D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.map	e64fddcb27476f12
+300	345	7900158207347859	bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+300	345	7900158207347859	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	90c64f318a8ed975
+345	432	7900158208602983	CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+345	432	7900158208602983	bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+345	432	7900158208602983	D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete	24f2e8aeac47b63e
+345	432	7900158208602983	D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	24f2e8aeac47b63e
+108	1196	7900158205427243	esp-idf/main/CMakeFiles/__idf_main.dir/rx_sniffer.cpp.obj	dbb4410751ef5f7
+1196	1296	7900158216306117	esp-idf/main/libmain.a	db8a61fb8e559979
+1296	11658	7900158320631856	esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+1296	11658	7900158320631856	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esp_system/ld/sections.ld	4f9078253c4dfb19
+11658	12496	7900158320921925	esp32_switch_rf.elf	92d2f9a7d55cf12c
+12496	12798	7900158332261084	.bin_timestamp	766c58db123278c7
+12496	12798	7900158332261084	D:/Main Screen/Diploma/ESP32clean/build/.bin_timestamp	766c58db123278c7
+12798	12905	7900158332321102	esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
+12798	12905	7900158332321102	D:/Main Screen/Diploma/ESP32clean/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6085b17b5f096653
