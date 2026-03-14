@@ -18,8 +18,8 @@ end
 
 # Load bootloader symbols
 set confirm off
-    add-symbol-file D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf
+    add-symbol-file D:/MainScreen/Diploma/ESP32clean/build/bootloader/bootloader.elf
 set confirm on
 
 # Load application symbols
-file D:/Main Screen/Diploma/ESP32clean/build/esp32_switch_rf.elf
+file D:/MainScreen/Diploma/ESP32clean/build/esp32_switch_rf.elf

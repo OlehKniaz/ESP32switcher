@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader"
+			"file" : "D:/MainScreen/Diploma/ESP32clean/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader.rule"
+			"file" : "D:/MainScreen/Diploma/ESP32clean/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "D:/Main Screen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "D:/MainScreen/Diploma/ESP32clean/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 

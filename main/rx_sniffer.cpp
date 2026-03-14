@@ -44,8 +44,6 @@
 #define RECIVER4RX   26
 #define RECIVER4TX   27
 
-#define RECIVER5RX   32
-#define RECIVER5TX   33
 
 #define CRSF_BAUD    420000
 
@@ -66,7 +64,6 @@ static const gpio_num_t rxPins[NUM_RECEIVERS] = {
     (gpio_num_t)RECIVER2RX,
     (gpio_num_t)RECIVER3RX,
     (gpio_num_t)RECIVER4RX,
-    (gpio_num_t)RECIVER5RX
 };
 
 static const gpio_num_t txPins[NUM_RECEIVERS] = {
@@ -74,7 +71,6 @@ static const gpio_num_t txPins[NUM_RECEIVERS] = {
     (gpio_num_t)RECIVER2TX,
     (gpio_num_t)RECIVER3TX,
     (gpio_num_t)RECIVER4TX,
-    (gpio_num_t)RECIVER5TX
 };
 
 // Active receiver index: -1 means "no active"

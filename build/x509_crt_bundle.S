@@ -1,4 +1,4 @@
-/* * Data converted from D:/Main Screen/Diploma/ESP32clean/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from D:/MainScreen/Diploma/ESP32clean/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

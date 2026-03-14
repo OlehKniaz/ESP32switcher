@@ -10,18 +10,18 @@ if(NOT EXISTS "E:/Espressif/frameworks/esp-idf-v5.5.1/components/bootloader/subp
   file(MAKE_DIRECTORY "E:/Espressif/frameworks/esp-idf-v5.5.1/components/bootloader/subproject")
 endif()
 file(MAKE_DIRECTORY
-  "D:/Main Screen/Diploma/ESP32clean/build/bootloader"
-  "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix"
-  "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/tmp"
-  "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp"
-  "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src"
-  "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp"
+  "D:/MainScreen/Diploma/ESP32clean/build/bootloader"
+  "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix"
+  "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix/tmp"
+  "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp"
+  "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix/src"
+  "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "D:/Main Screen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "D:/MainScreen/Diploma/ESP32clean/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()

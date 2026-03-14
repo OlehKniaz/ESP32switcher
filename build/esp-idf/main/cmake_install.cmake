@@ -1,4 +1,4 @@
-# Install script for directory: D:/Main Screen/Diploma/ESP32clean/main
+# Install script for directory: D:/MainScreen/Diploma/ESP32clean/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

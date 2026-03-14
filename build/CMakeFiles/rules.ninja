@@ -1847,7 +1847,7 @@ rule C_STATIC_LIBRARY_LINKER____idf_main_
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = E:\Espressif\tools\cmake\3.30.2\bin\cmake.exe --regenerate-during-build -S"D:\Main Screen\Diploma\ESP32clean" -B"D:\Main Screen\Diploma\ESP32clean\build"
+  command = E:\Espressif\tools\cmake\3.30.2\bin\cmake.exe --regenerate-during-build -SD:\MainScreen\Diploma\ESP32clean -BD:\MainScreen\Diploma\ESP32clean\build
   description = Re-running CMake...
   generator = 1
 

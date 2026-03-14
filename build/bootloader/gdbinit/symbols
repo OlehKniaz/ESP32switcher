@@ -22,4 +22,4 @@ set confirm off
 set confirm on
 
 # Load application symbols
-file D:/Main Screen/Diploma/ESP32clean/build/bootloader/bootloader.elf
+file D:/MainScreen/Diploma/ESP32clean/build/bootloader/bootloader.elf
